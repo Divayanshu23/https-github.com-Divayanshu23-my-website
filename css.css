@@ -1,0 +1,134 @@
+*{
+     margin: 0;
+     padding: 0;
+
+}
+
+.aa{
+     box-shadow: 2px px 0px gray;
+     background-color: #efff;
+}
+.img1:hover{
+    transition: all 0.5s linear;
+    transform: scale(1.1);
+    
+}
+.aed{
+     color: #e04f67;
+     font-size: 22px;
+     /* text-decoration: line-through 4px; */
+}
+.q{
+     text-decoration: line-through 4px;
+}
+.btn:hover{
+     background-color: black;
+     color: white;
+}
+.bor{
+     border: 1px solid white;
+}
+.xc:hover{
+     color: black;
+     transition: all 0.5s ease;
+     
+}
+.bi:hover{
+     color: black;
+     transition: all 0.5s ease;
+     
+}
+.ni:hover{
+     color: black;
+     transition: all 0.5s ease;
+     
+}
+
+
+
+.line{
+     margin-top: 20px;
+     border: 1px solid black;
+}
+.btn:hover{
+   background-color: black;
+   color: white;
+   transition: all 0.5s ease;
+}
+.tt{
+     background-image: url("../img/18.jpg");
+     height: 450px;
+     background-size: cover;
+     background-clip: border-box;
+     background-position: center;
+
+}
+.pp{
+     position: relative;
+     top: 150px;
+     left: 50px;
+}
+.img{
+     background-image: url("../img/pattern.png");
+     background-color: #222;
+     height: 450px;
+}
+.nd{
+     color: white;
+     top: 150px;
+     left:150px;
+}
+
+.a-1:hover{
+     color: gray;
+     transition: all 0.5s linear;
+ }
+ .b:hover{
+     color: gray;
+     transition: all 0.5s linear;
+ }
+ 
+ .b:hover{
+     color: gray;
+     transition: all 0.5s linear;
+ }
+ 
+ .c:hover{
+     color: gray;
+     transition: all 0.5s linear;
+ }
+ .d:hover{
+     color: gray;
+     transition: all 0.5s linear;
+ }
+ .e:hover{
+     color: gray;
+     transition: all 0.5s linear;
+ }
+ .no{
+     color: yellow;
+ }
+ .in{
+     color: yellow;
+ }
+ .no:hover{
+     color: white;
+ }
+ .in:hover{
+     color: white;
+ }
+ .co{
+     color: white;
+ 
+ }
+ .li{
+     border: 1px solid black;
+     width: 100%;
+     height: 0px;
+ }
+ .pho{
+     background-color: rgba(0, 0, 0, 0.18);
+ }
+.text-main{
+     color: white;
+}
